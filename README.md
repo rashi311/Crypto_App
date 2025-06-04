@@ -11,7 +11,7 @@ A simple and responsive web application built with **HTML**, **CSS**, and **Java
 
 ## 📂 Project Structure
 
-crypto-info-app/
+Crypto-App/
   - index.html
   - style.css
   - script.js
