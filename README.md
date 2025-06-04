@@ -12,10 +12,11 @@ A simple and responsive web application built with **HTML**, **CSS**, and **Java
 ## 📂 Project Structure
 
 crypto-info-app/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+index.html
+style.css
+script.js
+README.md
+images
 
 ## 🔧 How to Run
 
