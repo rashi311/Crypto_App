@@ -9,6 +9,12 @@ A simple and responsive web application built with **HTML**, **CSS**, and **Java
 - Easy-to-understand UI
 - Fetches data using `fetch()` from CoinGecko API
 
+ ## 🖼️ Preview
+
+![App Screenshot](screenshot.png)
+
+
+
 ## 📂 Project Structure
 
 Crypto-App/
